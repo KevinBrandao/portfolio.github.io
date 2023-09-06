@@ -37,13 +37,13 @@ async function demo3() {
 
 }
 async function demo1() {
-    for (let i = 0; i <= 22; i++) {
+    for (let i = 0; i <= 80; i++) {
         document.querySelector(".proje").textContent = i
         await sleep(100);
     }
 }
 async function demo2() {
-    for (let i = 0; i <= 5; i++) {
+    for (let i = 0; i <= 6; i++) {
         document.querySelector(".sitess").textContent = i
         await sleep(200);
     }
