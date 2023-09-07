@@ -842,10 +842,12 @@ footer h6 {
 }
 
 .imagem{
-    margin-left: 200px;
-    margin-right: 200px;
+    width: 30%;
     margin-top: 80px;
-    min-height: 250px;
+    margin-left: 80px;
+    /* margin-right: 200px; */
+    
+    /* min-height: 250px; */
 }
 
 .statusFinalizado{
